@@ -1,0 +1,13 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.img-fluid {
+  width: 100%;
+  height: 10vw;
+  align-items: center;
+}
+
+.footer {
+  text-align: end;
+}
