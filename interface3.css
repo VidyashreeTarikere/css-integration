@@ -9,8 +9,8 @@ body {
     border: 5px solid lightgray;
     width: 496px;
     height: 262px;
-    margin-left: 1700px;
-    margin-top: 700px;
+    margin-left: 200px;
+    margin-top: 200px;
     display: grid;
     grid-template-columns:40% 5 n 0%;
     grid-template-areas:
